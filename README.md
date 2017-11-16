@@ -10,4 +10,4 @@
 
 [ViewPage源码阅读：绘制篇](https://github.com/yudam/ViewPage-OnMeasure-OnLayout.git)  
 
-[ViewPage事件分发](https://github.com/yudam/Viewpage-TouchEvent.git)
+[ViewPage源码阅读：事件分发](https://github.com/yudam/Viewpage-TouchEvent.git)
